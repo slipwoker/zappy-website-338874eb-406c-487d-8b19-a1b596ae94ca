@@ -1,0 +1,47 @@
+# Business — Generative Engine Optimization Map
+
+---
+
+## Pages
+
+### בית
+https://example.com
+מלכת החיטוב היא יעדך הסופי לדיאטה לנשים לירידה במשקל. גלי תוכניות תזונה מותאמות אישית, טיפים מעשיים ותמיכה מלאה להשגת המטרות שלך. הצטרפי אלינו היום!
+
+### הדרכה
+https://example.com/guidance
+קבלי מדריך לדיאטה מפורט ומקצועי שתוכנן במיוחד עבור נשים. תוכנית דיאטה מותאמת אישית לנשים עם שלבים ברורים, תפריטים מאוזנים וליווי צמוד להצלחה מובטחת. התחילי עכשיו!
+
+### אודות
+https://example.com/about
+גלי מי עומד מאחורי מלכת החיטוב ולמה אלפי נשים בחרו בנו כמדריך לדיאטה האמין ביותר שלהן. הסיפור שלנו הוא הסיפור שלך — העצמה, בריאות ותוצאות אמיתיות לנשים שרוצות שינוי אמיתי.
+
+### צור קשר
+https://example.com/contact
+יש לך שאלות על תוכנית דיאטה מותאמת אישית לנשים? צוות מלכת החיטוב כאן בשבילך! פני אלינו עכשיו ותקבלי מענה מקצועי, חם ואישי שיעזור לך להתחיל את מסע הדיאטה לנשים לירידה במשקל שלך.
+
+## Legal & Policy
+
+### Privacy Policy
+https://example.com/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://example.com/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://example.com/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Business
+---
+
+# Additional Resources
+
+- **Sitemap**: https://example.com/sitemap.xml
+- **Robots.txt**: https://example.com/robots.txt
